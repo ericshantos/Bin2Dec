@@ -42,7 +42,7 @@ def main():
     # Clear the screen at the start of the program
     os.system('cls')
     print('*********************************************************')
-    print('****************** Welcome to Bin2Dec *******************')
+    print('****************** Bem-vindo ao Bin2Dec *******************')
     print('********************************************************* \n')
     limpador(True)
 
