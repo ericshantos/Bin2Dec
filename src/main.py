@@ -17,7 +17,7 @@ def verificar_tipo_numero(entrada: str):
     else:
         return 'decimal'
 
-def limpador(booleano):
+def limpador(booleano: bool):
     """
     Clears the console screen. If the input boolean is True, it waits for the user
     to press ENTER before clearing the screen.
